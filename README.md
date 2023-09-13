@@ -1,5 +1,10 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+made with love for codechef
 
+look out the other github profile (more official)
+visit [supermanas](https://github.com/supermanas)
+ 
+check out the portfolio 
+Open [visit portfolio](https://codecportfolio.vercel.app/)
 ## Getting Started
 
 First, run the development server:
